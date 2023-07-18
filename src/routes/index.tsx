@@ -49,11 +49,11 @@ export default component$(() => {
 });
 
 export const head: DocumentHead = {
-  title: "PokeQwiq",
+  title: "PokeQwik",
   meta: [
     {
       name: "description",
-      content: "Who is that Pokemon? Build with Qwiq",
+      content: "Who is that Pokemon? Build with Qwik",
     },
   ],
 };
