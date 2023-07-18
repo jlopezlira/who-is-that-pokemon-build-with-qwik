@@ -1,6 +1,6 @@
 {
-  "name": "my-qwik-basic-starter",
-  "description": "Demo App with Routing built-in (recommended)",
+  "name": "who-is-that-pokemon-build-with-qwik",
+  "description": "Who is that Pokemon, build with Qwik",
   "engines": {
     "node": ">=15.0.0"
   },
